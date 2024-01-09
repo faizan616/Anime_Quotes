@@ -15,6 +15,8 @@ An interactive web application that displays random quotes from anime using HTML
 - Bootstrap
 - JavaScript (including fetch() API)
 
+## Live link - https://faizan616.github.io/Anime_Quotes/
+
 ## Enjoy random anime quotes!
 
 ## Credits
